@@ -1,44 +1,51 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+## Hi, I'm Shikha Mishra, a Developer 🚀 from India :india:
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=shikhamis11.shikhamis11)
 [![Github](https://img.shields.io/github/followers/shikhamis11?label=Follow&style=social)](https://github.com/shikhamis11)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shikhamishra03/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=white&logo=twitter&logoColor=blue)](https://twitter.com/shikhamishra03/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mshikha1103@gmail.com)
 
-<div size='20px'> Hi! My name is Shikha. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<h2>About Me</h2>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on My Blog, Github Project
-
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+My name is Shikha and I"m a Software Developer who is passionate about building tech, teaching and learning new technologies. Currently I am working on Magento 2 headless approach with GraphQl and react js.  
   
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+#### 👩🏻‍💻 Languages and Tools <br />
+  <code><img height="30" src="https://camo.githubusercontent.com/0820c1fdc109ef1a714e21784da3c1b075213f3b4420b4c48a394373078f5bd7/68747470733a2f2f7374617469632e6d6167656e746f2e636f6d2f73697465732f616c6c2f7468656d65732f6d6167656e746f2f6c6f676f2e737667"></code>
+  <code><img height="30" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667"></code>
+  <code><img height="30" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4"></code>
+  <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
+  <code><img height="30" src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4"></code> 
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhamis11&theme=radical)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/shikhamishra03/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/shikhamishra03'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/shikhamis11'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+## &#x1f4c8; GitHub Stats
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<!-- <p align="center">
+  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=shikhamis11.shikhamis11" />
+</p> -->
+
+<p>
+<a href="https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&show_icons=true&hide_border=true">
+    <img style="margin-top:100px" width="45%" align="left" alt="Shikha's github stats" src="https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&show_icons=true&hide_border=true" />
+</a>
+ 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=radical&show_icons=true&hide_border=true">
+    <img width="45%" align="right" alt="Shikha's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=radical&show_icons=true&hide_border=true" />
+</a>
+
+<br />
   
-<br>
-<br>
-<br>
-  
-[![Shikha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shikhamis11&theme=tokyonight)](https://activity-graph.herokuapp.com/graph?username=shikhamis11&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shikhamis11&theme=radical)
 
-| ![Shikha's github stats](https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Shikha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhamis11&theme=tokyonight) |  |
-
+<p>
