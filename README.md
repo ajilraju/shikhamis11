@@ -11,6 +11,8 @@
 <h2>About Me</h2>
 
 My name is Shikha and I"m a Software Developer who is passionate about building tech, teaching and learning new technologies. Currently I am working on Magento 2 headless approach with GraphQl and react js.  
+
+know more about me : https://github.com/readme/shikha-mishra
   
 #### 👩🏻‍💻 Languages and Tools <br />
   <code><img height="30" src="https://camo.githubusercontent.com/0820c1fdc109ef1a714e21784da3c1b075213f3b4420b4c48a394373078f5bd7/68747470733a2f2f7374617469632e6d6167656e746f2e636f6d2f73697465732f616c6c2f7468656d65732f6d6167656e746f2f6c6f676f2e737667"></code>
