@@ -19,11 +19,15 @@ know more about me : https://github.com/readme/shikha-mishra
   <code><img height="30" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667"></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4"></code>
   <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="30" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code> 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code> 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
   <code><img height="30" src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4"></code> 
+  <code><img height="30" src="https://avatars.githubusercontent.com/in/67?s=40&v=4"></code> 
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhamis11&theme=radical)
 
