@@ -45,14 +45,14 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <p>
 <a href="https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&show_icons=true&hide_border=true">
-    <img style="margin-top:100px" width="45%" align="left" alt="Shikha's github stats" src="https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&show_icons=true&hide_border=true" />
+    <img style="margin-top:100px" width="40%" align="left" alt="Shikha's github stats" src="https://github-readme-stats.vercel.app/api?username=shikhamis11&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&show_icons=true&hide_border=true" />
 </a>
  
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=radical&show_icons=true&hide_border=true">
-    <img width="45%" align="right" alt="Shikha's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=radical&show_icons=true&hide_border=true" />
+    <img width="40%" align="right" alt="Shikha's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhamis11&theme=radical&show_icons=true&hide_border=true" /><br /><br /><br />
 </a>
 
-<br />
+<br /><br /><br />
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shikhamis11&theme=radical)
 
