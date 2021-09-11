@@ -10,20 +10,22 @@
 
 <h2>About Me</h2>
 
-My name is Shikha and I"m a Software Developer who is passionate about building tech, teaching and learning new technologies. Currently I am working on Magento 2 headless approach with GraphQl and react js.  
+My name is Shikha Mishra. I'm a Lead Developer and passionate about solving business problems with tech, training, and learning new technologies. I am also one of the core maintainers and contributors of the [Magento2](https://github.com/magento/magento2) open-source projects. Currently, on the work front, I am working on Magento 2 headless approach with GraphQl and react js.  
 
-know more about me : https://github.com/readme/shikha-mishra
+Read my story at GitHub ReadMe: https://github.com/readme/shikha-mishra
   
 #### 👩🏻‍💻 Languages and Tools <br />
   <code><img height="30" src="https://camo.githubusercontent.com/0820c1fdc109ef1a714e21784da3c1b075213f3b4420b4c48a394373078f5bd7/68747470733a2f2f7374617469632e6d6167656e746f2e636f6d2f73697465732f616c6c2f7468656d65732f6d6167656e746f2f6c6f676f2e737667"></code>
   <code><img height="30" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667"></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4"></code>
   <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg"></code>
+  <code><img height="20" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png"></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="30" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code> 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code> 
+  <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+  <code><img height="30" src="https://about.gitlab.com/images/icons/logos/slp-logo.svg"></code> 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
   <code><img height="30" src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4"></code> 
   <code><img height="30" src="https://avatars.githubusercontent.com/in/67?s=40&v=4"></code> 
