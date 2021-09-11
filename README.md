@@ -10,7 +10,7 @@
 
 <h2>About Me</h2>
 
-I'm a [Magento 2 Certifed Expert Developer](https://www.credly.com/badges/4129b9b1-66f3-46c3-b077-d22f079629bd/) and I'm passionate about solving business problems with tech, training, and learning new technologies. I am also one of the core maintainers and contributors of the [Magento2](https://github.com/magento/magento2) open-source projects. Currently, on the work front, I am working on Magento 2 headless approach with GraphQl and react js.  
+I'm a [Magento2 Certified Expert Developer](https://www.credly.com/badges/4129b9b1-66f3-46c3-b077-d22f079629bd/) and I'm passionate about solving business problems with tech, training, and learning new technologies. I am also one of the core maintainers and contributors of the [Magento2](https://github.com/magento/magento2) open-source projects. Currently, on the work front, I am working on Magento 2 headless approach with GraphQl and react js.  
 
 Read my story at GitHub ReadMe: https://github.com/readme/shikha-mishra
   
